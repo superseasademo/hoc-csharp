@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\HocCSharp\bin\Debug\netcoreapp2.2\HocCSharp.deps.json
+C:\Users\Administrator\Desktop\HocCSharp\bin\Debug\netcoreapp2.2\HocCSharp.runtimeconfig.json
+C:\Users\Administrator\Desktop\HocCSharp\bin\Debug\netcoreapp2.2\HocCSharp.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\HocCSharp\bin\Debug\netcoreapp2.2\HocCSharp.dll
+C:\Users\Administrator\Desktop\HocCSharp\bin\Debug\netcoreapp2.2\HocCSharp.pdb
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.dll
+C:\Users\Administrator\Desktop\HocCSharp\obj\Debug\netcoreapp2.2\HocCSharp.pdb
