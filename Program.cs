@@ -1,6 +1,7 @@
 ﻿using System;
 using Chuong1;
 using Chuong2;
+using Chuong3;
 
 namespace HocCSharp
 {
@@ -8,8 +9,8 @@ namespace HocCSharp
     {
         static void Main(string[] args)
         {
-            HelloWorld hw = new HelloWorld();
-            hw.helloWorld();
+            // HelloWorld hw = new HelloWorld();
+            // hw.helloWorld();        
         }
     }
 }
