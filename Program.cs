@@ -1,5 +1,6 @@
 ﻿using System;
 using Chuong1;
+using Chuong2;
 
 namespace HocCSharp
 {
